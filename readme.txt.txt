@@ -1,0 +1,51 @@
+Design a URL shortener (e.g., Bit.ly) - Easy
+- Design a cache system (e.g., Redis) - Easy
+- Design a notification system (push/email notifications) - Easy
+- Design an API rate limiter - Easy
+- Design a leaderboard system - Easy
+- Design a real-time poll system - Easy
+- Design an expense-tracking app - Easy
+- Design a secure file transfer protocol - Easy
+- Design a calendar system (e.g., Google Calendar) - Easy
+- Design a personal task management tool (e.g., Todoist) - Easy
+
+- Design a social media feed (e.g., Facebook News Feed) - Medium
+- Design a chat system (e.g., WhatsApp) - Medium
+- Design an online code editor (e.g., Google Colab) - Medium
+- Design a food delivery service (e.g., DoorDash, Uber Eats) - Medium
+- Design a search autocomplete system - Medium
+- Design a ride-sharing service (e.g., Uber) - Medium
+- Design a content delivery network (CDN) - Medium
+- Design a logging and monitoring system - Medium
+- Design a feature flag management system - Medium
+- Design a distributed search engine - Medium
+- Design a multiplayer game server architecture - Medium
+- Design a system for online book rentals (e.g., Audible) - Medium
+- Design a subscription billing system - Medium
+- Design a video conferencing tool (e.g., Zoom) - Medium
+- Design an event management and RSVP system - Medium
+- Design an IoT data processing system - Medium
+- Design a recommendation system (e.g., Netflix, Amazon) - Medium
+- Design a news aggregator - Medium
+- Design a stock trading system - Medium
+- Design an expense-tracking app - Medium
+
+- Design a video streaming platform (e.g., YouTube) - Hard
+- Design a payment gateway (e.g., Stripe, PayPal) - Hard
+- Design a ride-sharing service (e.g., Uber) - Hard
+- Design a distributed analytics platform - Hard
+- Design a scalable blogging platform (e.g., Medium) - Hard
+- Design a hotel booking system - Hard
+- Design a scalable search solution (e.g., Elasticsearch) - Hard
+- Design a time-series database - Hard
+- Design a file storage and sharing service (e.g., Dropbox) - Hard
+- Design a job search platform (e.g., LinkedIn) - Hard
+- Design a distributed messaging queue (e.g., Kafka) - Hard
+- Design a streaming data processing system - Hard
+- Design a health tracking app - Hard
+- Design an online judge system (e.g., LeetCode) - Hard
+- Design a file conversion service (e.g., PDF to JPG) - Hard
+- Design a scalable e-commerce website - Hard
+- Design a stock trading system - Hard
+- Design a mobile backend infrastructure - Hard
+- Design a load balancer - Hard
